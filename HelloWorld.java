@@ -1,7 +1,7 @@
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
-        Testing t=new Testing();
+        Test t=new Test();
         String message=t.testing();
         System.out.println(message);
     }
